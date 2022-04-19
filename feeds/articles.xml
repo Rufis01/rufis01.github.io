@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="https://flunitrazepam.it/feeds/articles.xml" rel="self" type="application/rss+xml" />
+		<title>Flunitrazepam Articles</title>
+		<link>https://flunitrazepam.it/articles.html</link>
+		<description>Rufis' website</description>
+		<lastBuildDate>Fri, 11 Jun 2021 19:30:00 +0200</lastBuildDate>
+		<language>en-us</language>    
+		<image>
+			<title>Flunitrazepam Articles</title>
+			<link>https://flunitrazepam.it/articles.html</link>
+			<url>https://flunitrazepam.it/img/me.png</url>
+		</image>
+		<item>
+			<title>Test</title>
+			<pubDate>Fri, 11 Jun 2021 17:23:00 +0200</pubDate>
+			<link>https://flunitrazepam.it/articles/test.html</link>
+			<guid>https://flunitrazepam.it/articles/test.html</guid>
+			<description>Test Page Description</description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+@media only screen and (orientation: portrait) {
+	h1.title {
+		font-size: 36pt;
+		text-shadow: 10px 10px 4px #000000;
+	}
+	
+	div.header {
+		line-height: 72pt;
+		padding-left: 30px;
+		padding-top: 10px;
+		height: 7%;
+	}
+	
+	div.titlebar {
+		margin: 4px;
+		padding: 0 8px 0 8px;
+		height: 64px;
+		font-size: 24pt;
+	}
+
+	div.x-button {
+		height: 32px;
+		width: 32px;
+		font-size: 28pt;
+	}
+
+	p.x-button {
+		margin-top: -8px;
+	}	
+
+	div.window {
+		margin-top: 20px;
+		font-size: 16pt;
+	}
+
+	div.window-header {
+		height: 100px;
+		padding: 30px 0 0 40px;
+	}
+
+	img.start-img {
+		width: 64px;
+		height: 64px;
+	}
+
+	b.start-text {
+		padding: 16px 4px 0 0;
+		font-size: 24pt;
+	}
+	div.menu-elem {
+		height: 100px;
+	}
+	
+	div#start-menu {
+		bottom: 74px;
+		width: 600px;
+		height: 800px;
+	}
+	
+	div.menu-elem>img {
+		padding: 0 30px 0 10px;
+		height: 96px;
+		width: 96px;
+	}
+	
+	div.menu-elem>p {
+		font-family: Tahoma;
+		font-size: 24pt;
+		line-height: 96px;
+	}
+}
